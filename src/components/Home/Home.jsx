@@ -14,7 +14,7 @@ const Home = () => {
           delay:".5"
       }} className="absolute inset-0 flex flex-col items-center justify-center z-1">
         <div className="text-8xl text-center font-bold mb-4 text-slate-800 tracking-tight Heading font-sans" style={{ textShadow: '2px 2px #fff' }}>
-          Welcome to NSP
+          Welcome to NSP_drs
         </div>
         <div className="text-lg max-w-4xl text-center mb-6 px-20 text-slate-700">
           
